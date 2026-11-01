@@ -13,7 +13,7 @@ A aplicação foi estruturada do modo mais leve e direto possível, utilizando *
 
 **Explicação da Interface Criada**
 
-A interface foi projetada com um layout centralizado, utilizando uma paleta de cores inspirada na personagem Mitsuri Kanroji de Kimetsu no Yaiba(com tons de roxo escuro, rosa e verde claro). A ideia de uma TO-DO List com esse tema foi por causa dos tons bonitos e calmos da personagem, o que ajuda
+A interface foi projetada com um layout centralizado, utilizando uma paleta de cores inspirada na personagem Mitsuri Kanroji de Kimetsu no Yaiba(com tons de roxo escuro, rosa e verde claro). A ideia de uma TO-DO List com esse tema foi por causa dos tons bonitos e calmos da personagem.
 
 
 **Componentes Bootstrap:**
